@@ -1,2 +1,2 @@
 echo ${USER}
-echo 
+echo ${PATH} 

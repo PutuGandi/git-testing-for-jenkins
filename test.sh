@@ -1,2 +1,3 @@
 echo ${USER}
-echo ${PATH} 
+echo ${PATH}
+$PWD 
